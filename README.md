@@ -1,8 +1,8 @@
 # Cybersecurity Notes
 
 My study notes and cheatsheets as I work toward a SOC / blue team role and study
-for CompTIA Security+. I write things down in my own words to actually learn them
-- this repo is that, kept public so it stays organized and others can use it too.
+for CompTIA Security+. I write things in my own words to actually learn them -
+this repo is that, kept public so it stays organized and others can use it too.
 
 > These are learning notes, not a reference authority. I add and correct things as
 > I go.
@@ -11,6 +11,7 @@ for CompTIA Security+. I write things down in my own words to actually learn the
 
 | Topic | Notes |
 |-------|-------|
+| Security+ (SY0-701) | [exam notes by domain + acronyms + ports](security-plus/) |
 | Networking | [TCP/IP, ports & protocols](networking/tcp-ip-and-ports.md) |
 | Linux | [Log analysis commands](linux/log-analysis-commands.md) |
 | Windows | [Key security Event IDs](windows/key-event-ids.md) |
