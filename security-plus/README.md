@@ -8,6 +8,7 @@ help me learn and revise.
 
 ## Quick references
 
+- [Cram sheet](cram-sheet.md) - one-page, high-yield review for last-minute revision
 - [Acronyms](acronyms.md) - the long list Security+ loves to test
 - [Ports & protocols](ports-and-protocols.md) - the ones to memorize
 
@@ -24,5 +25,5 @@ help me learn and revise.
 ## How I use these
 
 I write things in my own words to move them from "read once" to "can explain it."
-The acronym and ports lists are pure memorization, so I review those most. The
-domain files hold the concepts, attacks, and controls each domain covers.
+The cram sheet, acronyms, and ports lists are pure memorization, so I review those
+most. The domain files hold the concepts, attacks, and controls each domain covers.
